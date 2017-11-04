@@ -42,6 +42,7 @@ Signaller->User: Executes specified SCRIPT_FILE_2.
 
 **/etc/rc.local Example in RPi:**
 ![Screenshot of dbgeth](http://cfile24.uf.tistory.com/image/9906D63359FD828818843C)
+![Screenshot of dbgeth](http://cfile24.uf.tistory.com/image/99C9BB3359FD82B72DA887)
 
 ----------
 
