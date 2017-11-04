@@ -32,7 +32,7 @@ Basically, dbgeth supports two methods. One is listener mode, other is signaller
 
 **Message Flow:**
 ```sequence
-User->Signaller:
+User->Signaller: .
 Signaller->Listener: Broadcasts E_DBGQRY_DISCOVERY packet
 Note right of Signaller: Broadcasts every 1 seconds
 Listener->Signaller: Respond E_DBGQRY_DISCOVERY packet.
